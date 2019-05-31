@@ -1,3 +1,13 @@
 # Mijn-CV
 https://sonia012.github.io/Mijn-CV/
-Writing a CV using CSS grids.
+
+# Description
+
+Project made in December 2018 during my BeCode training. The purpose was to write a CV and style it using CSS grids.
+
+
+# Technologies used
+
+- CSS grids
+- HTML
+
