@@ -9,5 +9,6 @@ Project made in December 2018 during my BeCode training. The purpose was to writ
 # Technologies used
 
 - CSS grids
+- CSS media queries
 - HTML
 
